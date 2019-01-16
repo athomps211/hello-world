@@ -1,5 +1,5 @@
 # hello-world
 We'll see what happens.
 
-Hi it's Anna - just learning how this works
+Hi it's Anna - just learning how this works.
 I forgot to comment.
